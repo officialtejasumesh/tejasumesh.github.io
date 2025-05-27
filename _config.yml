@@ -1,0 +1,4 @@
+title: "Tejas Umesh — Portfolio"
+theme: minima            # GitHub’s lightweight built‑in theme
+plugins:
+  - jekyll-feed
